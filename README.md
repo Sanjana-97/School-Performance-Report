@@ -64,7 +64,7 @@ The data model integrates multiple tables with logical relationships to enable e
 
 ## Repository Contents
 
-1. **Project DATA B3.xlsx** - Raw data used in Power BI.
+1. **School_data.xlsx** - Raw data used in Power BI.
 2. **School_performance_Report.pbix** - Power BI file with dashboards and insights.
 3. **Problem_Statement.pdf** - Document outlining the project objectives and goals.
 
