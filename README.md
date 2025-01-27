@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project demonstrates the use of **Power BI** to analyze and visualize the performance of XYZ School. The focus was on leveraging Power BI for data modeling, DAX calculations, and creating interactive dashboards to extract meaningful insights from the data. The project provides a comprehensive analysis of:
+This project demonstrates the use of **Power BI** to analyze and visualize the performance of School. The focus was on leveraging Power BI for data modeling, DAX calculations, and creating interactive dashboards to extract meaningful insights from the data. The project provides a comprehensive analysis of:
 - Student performance.
 - Faculty contributions.
 - Key management metrics such as revenue, profit, and withdrawals.
@@ -66,9 +66,7 @@ The data model integrates multiple tables with logical relationships to enable e
 
 1. **Project DATA B3.xlsx** - Raw data used in Power BI.
 2. **School_performance_Report.pbix** - Power BI file with dashboards and insights.
-3. **Student_Report.PNG**, **Faculty_Report.PNG**, **Mgmt_Report.PNG** - Screenshots of the dashboards.
-4. **model.PNG** - Screenshot of the Power BI data model.
-5. **Problem_Statement.pdf** - Document outlining the project objectives and goals.
+3. **Problem_Statement.pdf** - Document outlining the project objectives and goals.
 
 ---
 
